@@ -1,0 +1,1242 @@
+{
+  "gym_members": [
+    {
+      "user_id": 1,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "age": 30,
+      "training_experience_years": 4,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "средняя",
+          "recovery_time_weeks": 6
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 3,
+      "age": 22,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 4,
+      "age": 28,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 5,
+      "age": 35,
+      "training_experience_years": 5,
+      "total_injuries": 3,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        },
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Запястье",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        },
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "тяжелая",
+          "recovery_time_weeks": 12
+        }
+      ]
+    },
+    {
+      "user_id": 6,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 7,
+      "age": 32,
+      "training_experience_years": 6,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 8,
+      "age": 24,
+      "training_experience_years": 1,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Подтягивания",
+          "injury_type": "Локоть",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 9,
+      "age": 29,
+      "training_experience_years": 4,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 10,
+      "age": 27,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 11,
+      "age": 31,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 12,
+      "age": 23,
+      "training_experience_years": 1,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Поясница",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        },
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 13,
+      "age": 34,
+      "training_experience_years": 7,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 14,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 15,
+      "age": 28,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 16,
+      "age": 33,
+      "training_experience_years": 4,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 17,
+      "age": 21,
+      "training_experience_years": 1,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 18,
+      "age": 36,
+      "training_experience_years": 8,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 19,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 20,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 21,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 22,
+      "age": 32,
+      "training_experience_years": 5,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Запястье",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        },
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 23,
+      "age": 24,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 24,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 25,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 26,
+      "age": 35,
+      "training_experience_years": 6,
+      "total_injuries": 3,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "тяжелая",
+          "recovery_time_weeks": 10
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "средняя",
+          "recovery_time_weeks": 6
+        },
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 27,
+      "age": 23,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 28,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 29,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 30,
+      "age": 33,
+      "training_experience_years": 5,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 31,
+      "age": 22,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 32,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 33,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 34,
+      "age": 34,
+      "training_experience_years": 7,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 35,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Запястье",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 36,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 37,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 38,
+      "age": 32,
+      "training_experience_years": 5,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 39,
+      "age": 24,
+      "training_experience_years": 1,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        },
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 40,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 41,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 42,
+      "age": 35,
+      "training_experience_years": 6,
+      "total_injuries": 3,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Поясница",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        },
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 43,
+      "age": 23,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 44,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 45,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 46,
+      "age": 33,
+      "training_experience_years": 5,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 47,
+      "age": 22,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 48,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 49,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 50,
+      "age": 34,
+      "training_experience_years": 7,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 51,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 52,
+      "age": 31,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 53,
+      "age": 24,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 54,
+      "age": 29,
+      "training_experience_years": 4,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 55,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 56,
+      "age": 33,
+      "training_experience_years": 5,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 57,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 58,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 59,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 60,
+      "age": 35,
+      "training_experience_years": 6,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 61,
+      "age": 23,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 62,
+      "age": 32,
+      "training_experience_years": 4,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 63,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Запястье",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 64,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 65,
+      "age": 34,
+      "training_experience_years": 7,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 66,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 67,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 68,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 69,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 70,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 71,
+      "age": 33,
+      "training_experience_years": 5,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        },
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 72,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 73,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 74,
+      "age": 35,
+      "training_experience_years": 6,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 75,
+      "age": 24,
+      "training_experience_years": 1,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 76,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 77,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 78,
+      "age": 32,
+      "training_experience_years": 5,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 79,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        },
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 80,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 81,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 82,
+      "age": 34,
+      "training_experience_years": 7,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 83,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 84,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 85,
+      "age": 33,
+      "training_experience_years": 5,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        },
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Запястье",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 86,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 87,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 88,
+      "age": 25,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 89,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 90,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 91,
+      "age": 35,
+      "training_experience_years": 6,
+      "total_injuries": 3,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        },
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 92,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 93,
+      "age": 29,
+      "training_experience_years": 3,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Тяга к подбородку",
+          "injury_type": "Плечо",
+          "severity": "средняя",
+          "recovery_time_weeks": 4
+        }
+      ]
+    },
+    {
+      "user_id": 94,
+      "age": 32,
+      "training_experience_years": 5,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 95,
+      "age": 27,
+      "training_experience_years": 2,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги лежа",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 96,
+      "age": 30,
+      "training_experience_years": 3,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 97,
+      "age": 34,
+      "training_experience_years": 7,
+      "total_injuries": 2,
+      "injuries": [
+        {
+          "exercise": "Становая тяга",
+          "injury_type": "Спина",
+          "severity": "средняя",
+          "recovery_time_weeks": 5
+        },
+        {
+          "exercise": "Приседания со штангой",
+          "injury_type": "Колено",
+          "severity": "легкая",
+          "recovery_time_weeks": 3
+        }
+      ]
+    },
+    {
+      "user_id": 98,
+      "age": 28,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    },
+    {
+      "user_id": 99,
+      "age": 31,
+      "training_experience_years": 4,
+      "total_injuries": 1,
+      "injuries": [
+        {
+          "exercise": "Жим штанги стоя",
+          "injury_type": "Плечо",
+          "severity": "легкая",
+          "recovery_time_weeks": 2
+        }
+      ]
+    },
+    {
+      "user_id": 100,
+      "age": 26,
+      "training_experience_years": 2,
+      "total_injuries": 0,
+      "injuries": []
+    }
+  ]
+},
