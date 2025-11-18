@@ -19,7 +19,7 @@
     "user_id": 1,
     "date": "2024-09-30",
     "exercise": "Приседания",
-    "weight_kg": 60,
+    "weight_kg": 55,
     "reps": [10, 9, 8],
     "total_reps": 27
   },
@@ -83,7 +83,7 @@
     "user_id": 3,
     "date": "2024-09-30",
     "exercise": "Жим лежа",
-    "weight_kg": 35,
+    "weight_kg": 30,
     "reps": [12, 11, 10],
     "total_reps": 33
   },
@@ -107,7 +107,7 @@
     "user_id": 3,
     "date": "2024-09-30",
     "exercise": "Армейский жим",
-    "weight_kg": 25,
+    "weight_kg": 20,
     "reps": [12, 11, 10],
     "total_reps": 33
   },
@@ -163,7 +163,7 @@
     "user_id": 5,
     "date": "2024-09-30",
     "exercise": "Жим лежа",
-    "weight_kg": 50,
+    "weight_kg": 45,
     "reps": [10, 9, 8],
     "total_reps": 27
   },
@@ -179,7 +179,7 @@
     "user_id": 5,
     "date": "2024-09-30",
     "exercise": "Приседания",
-    "weight_kg": 55,
+    "weight_kg": 45,
     "reps": [10, 9, 8],
     "total_reps": 27
   },
@@ -203,14 +203,6 @@
     "user_id": 6,
     "date": "2024-09-30",
     "exercise": "Жим лежа",
-    "weight_kg": 90,
-    "reps": [7, 6, 5, 4],
-    "total_reps": 22
-  },
-  {
-    "user_id": 6,
-    "date": "2024-09-30",
-    "exercise": "Тяга штанги",
     "weight_kg": 80,
     "reps": [7, 6, 5, 4],
     "total_reps": 22
@@ -218,8 +210,16 @@
   {
     "user_id": 6,
     "date": "2024-09-30",
+    "exercise": "Тяга штанги",
+    "weight_kg": 75,
+    "reps": [7, 6, 5, 4],
+    "total_reps": 22
+  },
+  {
+    "user_id": 6,
+    "date": "2024-09-30",
     "exercise": "Приседания",
-    "weight_kg": 105,
+    "weight_kg": 100,
     "reps": [7, 6, 5, 4],
     "total_reps": 22
   },
@@ -227,7 +227,7 @@
     "user_id": 6,
     "date": "2024-09-30",
     "exercise": "Армейский жим",
-    "weight_kg": 60,
+    "weight_kg": 55,
     "reps": [7, 6, 5],
     "total_reps": 18
   },
@@ -243,7 +243,7 @@
     "user_id": 7,
     "date": "2024-09-30",
     "exercise": "Жим лежа",
-    "weight_kg": 45,
+    "weight_kg": 50,
     "reps": [11, 10, 9],
     "total_reps": 30
   },
@@ -251,7 +251,7 @@
     "user_id": 7,
     "date": "2024-09-30",
     "exercise": "Тяга штанги",
-    "weight_kg": 35,
+    "weight_kg": 30,
     "reps": [11, 10, 9],
     "total_reps": 30
   },
@@ -283,7 +283,7 @@
     "user_id": 8,
     "date": "2024-09-30",
     "exercise": "Жим лежа",
-    "weight_kg": 60,
+    "weight_kg": 50,
     "reps": [9, 8, 7, 6],
     "total_reps": 30
   },
@@ -299,7 +299,7 @@
     "user_id": 8,
     "date": "2024-09-30",
     "exercise": "Приседания",
-    "weight_kg": 70,
+    "weight_kg": 60,
     "reps": [9, 8, 7, 6],
     "total_reps": 30
   },
@@ -331,7 +331,7 @@
     "user_id": 9,
     "date": "2024-09-30",
     "exercise": "Тяга штанги",
-    "weight_kg": 90,
+    "weight_kg": 82.5,
     "reps": [5, 4, 3, 2],
     "total_reps": 14
   },
@@ -395,7 +395,7 @@
     "user_id": 10,
     "date": "2024-09-30",
     "exercise": "Подтягивания",
-    "weight_kg": 0,
+    "weight_kg": 5,
     "reps": [7, 6, 5],
     "total_reps": 18
   }
